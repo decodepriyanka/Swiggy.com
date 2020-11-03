@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@1,700&display=swap');
+
+
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+body{
+	background-image: url(../images/Bg.png);
+
+}
+
+.bg2 img{
+	width: 100%;
+	height: 500px;
+}
+
+.object1 img {
+    width: 100px;
+    height: 120px;
+    margin: -450px auto;
+    display: block;
+}
+ h1{
+	margin-top: 36rem;
+	margin-left: 30px;
+}
+h5{
+		margin-left: 35px;
+		font-family: 'Volkhov', serif;
+
+
+}
+.btns .btn{
+	width: 80%;
+    display: block;
+    margin-top: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f79837;
+    border: none;
+}
+
+
+
+.btn2 .btn{
+	   width: 80%;
+    display: block;
+    margin: 10px auto;
+        border: none;
+
+        background-color: #fff;
+        color: #000;
+        border: 1px solid #f79837;
+
+}
+
+.btn2 .btn:focus{
+    background-color: #f79837;
+}
+
+.btn3 .btn {
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+        background-color: #fff;
+        color:#000;
+border:1px solid #f79837 ;
+
+
+}
+
